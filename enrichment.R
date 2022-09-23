@@ -1,4 +1,11 @@
+# To perform KOG/KEGG/GO enrichment by 'compareCluster' of 'clusterProfiler' package
 # reference to https://github.com/xieyichun50/Myriapod-genomes/blob/v1.0.0/script/4function_anno2tree/04gain_loss_specific_enrichment.R and 05dotplot.R
+# input:
+#     Tco_S7F_head_10-6_6h_20E_DMSO_all_rep3_swapped.csv # results from Degust (http://degust.erc.monash.edu/)
+#     Tco.GO.1v1.txt
+#     Tco.KEGG.1v1.txt
+#     Tco.ko.1v1.txt
+#     Tco.KOG.1v1.txt
 
 library(clusterProfiler)
 library(tidyr)
