@@ -1,7 +1,7 @@
 # To format annotation for each protein in the eggNOG annotation
 # reference to https://github.com/xieyichun50/Myriapod-genomes/blob/v1.0.0/script/4function_anno2tree/Orthofinder_eggnog_orthogroup_function.R
 # input: 
-#     Trigoniulus_corallinus_hic.proteins.fa.v2.emapper.annotations.xls (available on request)
+#     Trigoniulus_corallinus_hic.proteins.fa.v2.emapper.annotations.xls (available on request, reference to Qu, Z., Nong, W., So, W. L., Barton-Owen, T., Li, Y., Leung, T. C. N., Li, C., Baril, T., Wong, A. Y. P., Swale, T., Chan, T. F., Hayward, A., Ngai, S. M., & Hui, J. H. L. (2020). Millipede genomes reveal unique adaptations during myriapod evolution. PLoS Biology, 18(9), e3000636. https://doi.org/10.1371/journal.pbio.3000636)
 #     go2name.txt
 #     kegg2name.txt
 #     ko2name.txt
