@@ -1,3 +1,5 @@
+# reference to https://github.com/xieyichun50/Myriapod-genomes/blob/v1.0.0/script/4function_anno2tree/Orthofinder_eggnog_orthogroup_function.R
+
 library(dplyr)
 library(tidyr)
 library(stringr)
