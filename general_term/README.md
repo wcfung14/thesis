@@ -1,2 +1,2 @@
-# General functional term descriptions to annotate the IDs
+## General functional term descriptions to annotate the IDs
 
