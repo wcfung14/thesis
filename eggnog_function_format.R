@@ -1,7 +1,11 @@
-# To format the annotation file for single species
+# To format annotation for each protein in the eggNOG annotation
 # reference to https://github.com/xieyichun50/Myriapod-genomes/blob/v1.0.0/script/4function_anno2tree/Orthofinder_eggnog_orthogroup_function.R
 # input: 
 #     Trigoniulus_corallinus_hic.proteins.fa.v2.emapper.annotations.xls
+#     go2name.txt
+#     kegg2name.txt
+#     ko2name.txt
+#     kog2name.txt
 # output:
 #     Tco.GO.1v1.txt
 #     Tco.KEGG.1v1.txt
