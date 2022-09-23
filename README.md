@@ -1,4 +1,4 @@
-# thesis - DEG analysis
+# Thesis - DEG analysis
 Code for DEG analysis in transcriptome for my thesis submitted in 2022
 
 ## script
