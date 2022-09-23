@@ -1,4 +1,12 @@
+# To format the annotation file for single species
 # reference to https://github.com/xieyichun50/Myriapod-genomes/blob/v1.0.0/script/4function_anno2tree/Orthofinder_eggnog_orthogroup_function.R
+# input: 
+#     Trigoniulus_corallinus_hic.proteins.fa.v2.emapper.annotations.xls
+# output:
+#     Tco.GO.1v1.txt
+#     Tco.KEGG.1v1.txt
+#     Tco.ko.1v1.txt
+#     Tco.KOG.1v1.txt
 
 library(dplyr)
 library(tidyr)
