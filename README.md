@@ -1,5 +1,5 @@
 # Thesis - DEG analysis
-R Code for DEG analysis in transcriptome for my thesis submitted in 2022
+R script for DEG analysis in transcriptome for my thesis submitted in 2022
 
 ## script
 `eggnog_function_format.R` - R script for formatting annotation for each protein in the eggNOG annotation
